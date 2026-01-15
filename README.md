@@ -3,6 +3,7 @@
 ### 📌 Project Overview
 
 This project focuses on **validating the integrity, completeness, and consistency** of curated Silver- and Gold-layer e-commerce data in a Medallion Lakehouse.  
+
 The goal is to ensure that data moving from **Bronze → Silver → Gold** is **accurate, reliable, and trustworthy** for downstream analytics and reporting.
 
 Validation was performed across **all core data quality dimensions**, supporting enterprise-grade analytics and executive dashboards.
