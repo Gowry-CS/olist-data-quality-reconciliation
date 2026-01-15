@@ -1,4 +1,4 @@
-# Olist Data Reconciliation (Silver & Gold Lakehouse Validation)
+## Olist Data Reconciliation (Silver & Gold Lakehouse Validation)
 
 ### 📌 Project Overview
 
