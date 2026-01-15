@@ -10,8 +10,6 @@ The goal is to ensure that data moving from **Bronze → Silver → Gold** is **
 
 Validation was performed across **all core data quality dimensions**, supporting enterprise-grade analytics and executive dashboards.
 
----
-
 ### 🥈 Silver Lakehouse Validation
 
 The Silver layer focuses on **data quality, consistency, and integrity** after cleaning and standardisation.
@@ -28,8 +26,6 @@ The Silver layer focuses on **data quality, consistency, and integrity** after c
 
 - **Order ID (`order_id`)**: Duplication is expected due to one-to-many relationships with `order_items`. It is **not used as a primary key** in the fact table.  
 - **Review ID (`review_id`)**: 66 true duplicates were found. These records were **removed** to ensure a clean dimension table.
-
----
 
 ### 🏆 Gold Lakehouse Validation
 
@@ -49,8 +45,6 @@ Validation of the Gold-layer Galaxy Schema ensures that **analytics-ready datase
 - Metric reconciliation ensures **trustworthy KPIs** for stakeholders.  
 - Performance checks guarantee that **large-scale joins are efficient**, supporting scalable BI workloads.
 
----
-
 ### 🛠️ Tools & Skills Demonstrated
 
 - **PySpark**: Data validation, type enforcement, null handling, duplicate detection  
@@ -59,8 +53,6 @@ Validation of the Gold-layer Galaxy Schema ensures that **analytics-ready datase
 - **Data Quality Engineering**: Completeness, validity, consistency, uniqueness, and integrity checks  
 - **Analytical Thinking**: Detecting data anomalies, enforcing business rules, and preserving trustworthy datasets  
 - **Data Modelling**: Galaxy schema design for OLAP optimisation
-
----
 
 ### 🎯 Business Impact & Outcomes
 
