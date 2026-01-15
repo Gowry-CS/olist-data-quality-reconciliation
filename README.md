@@ -1,5 +1,5 @@
 <div align="center">
-## Olist Data Reconciliation (Silver & Gold Lakehouse Validation)
+<h2>Olist Data Reconciliation (Silver & Gold Lakehouse Validation)</h2> 
 </div>
 
 ### 📌 Project Overview
