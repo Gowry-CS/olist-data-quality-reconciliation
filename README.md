@@ -1,4 +1,6 @@
+<div align="center">
 ## Olist Data Reconciliation (Silver & Gold Lakehouse Validation)
+</div>
 
 ### 📌 Project Overview
 
